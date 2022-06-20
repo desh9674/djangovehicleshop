@@ -1,0 +1,7 @@
+#python -m venv venv
+# activate
+# pip install -r requirements.txt
+#django-admin startproject storefront .
+#python manage.py runserver
+#python manage.py startapp playground -- to run a new app called "playground"
+pip3 freeze > requirements.txt
